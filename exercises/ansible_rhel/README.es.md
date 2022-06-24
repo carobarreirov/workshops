@@ -15,8 +15,8 @@ Después de haber terminado el laboratorio estarás listo para iniciar a utiliza
 - [Ansible Workshop - Ansible para Red Hat Enterprise Linux](#ansible-workshop---ansible-para-red-hat-enterprise-linux)
   - [Tabla de Contenido](#tabla-de-contenido)
   - [Presentations](#presentaciones)
-  - [Time planning](#planificacion-del-tiempo)
-  - [Lab Diagram](#lab-diagram)
+  - [Planificación del tiempo](#planificacion-del-tiempo)
+  - [Diagrama del Laboratorio](#diagrama-del-laboratorio)
   - [Sección 1 - Ejercicios de Ansible en línea de comandos](#seccion-1---ejercicios-de-ansible-en-linea-de-comandos)
   - [Sección 2 - Ejercicios de Ansible Automation Platform](#seccion-2---ejercicios-de-ansible-automation-platform)
   - [Ejercicios Adicionales](#ejercicios-adicionales)
@@ -38,6 +38,10 @@ El tiempo necesario para hacer los talleres depende en gran medida de múltiples
 Dicho esto, los ejercicios en sí deben tomar aproximadamente 4-5 horas. La primera sección es ligeramente más larga que la segunda. La presentación adjunta en sí añade otra hora.
 
 Si su experiencia es diferente al programar estos talleres, por favor háganoslo saber y presente un problema.
+
+## Diagrama del Laboratorio 
+
+![ansible rhel lab diagram](../../images/rhel_lab_diagram.png)
 
 ## Sección 1 - Ejercicios de Ansible en línea de comandos
 
