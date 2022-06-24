@@ -55,7 +55,7 @@ Si su experiencia es diferente al programar estos talleres, por favor háganoslo
 
 ## Sección 2 - Ejercicios de Ansible Automation Platform
 
-- [Ejercicio 2.1 - Introducción a Tower](2.1-intro/README.es.md)
+- [Ejercicio 2.1 - Introducción a Automation Controller](2.1-intro/README.es.md)
 - [Ejercicio 2.2 - Inventarios, credenciales y comandos ad hoc](2.2-cred/README.es.md)
 - [Ejercicio 2.3 - Proyectos y plantillas de trabajo](2.3-projects/README.es.md)
 - [Ejercicio 2.4 - Encuestas](2.4-surveys/README.es.md)
